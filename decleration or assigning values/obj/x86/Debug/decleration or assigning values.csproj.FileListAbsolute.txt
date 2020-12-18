@@ -1,0 +1,4 @@
+c:\users\tabish\documents\visual studio 2010\Projects\decleration or assigning values\decleration or assigning values\bin\Debug\decleration or assigning values.exe
+c:\users\tabish\documents\visual studio 2010\Projects\decleration or assigning values\decleration or assigning values\bin\Debug\decleration or assigning values.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\decleration or assigning values\decleration or assigning values\obj\x86\Debug\decleration or assigning values.exe
+c:\users\tabish\documents\visual studio 2010\Projects\decleration or assigning values\decleration or assigning values\obj\x86\Debug\decleration or assigning values.pdb

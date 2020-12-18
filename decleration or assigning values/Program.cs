@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace decleration_or_assigning_values
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            // demonstrates  concepts declaration, assignment, and accessing arrays
+
+            int[] n = new int[10]; /* n is an array of 10 integers */
+            int i, j;
+
+            /* initialize elements of array n */
+            for (i = 0; i < 10; i++)
+            {
+                n[i] = i + 100;
+            }
+
+            /* output each array element's value */
+            for (j = 0; j < 10; j++)
+            {
+                Console.WriteLine("Element[{0}] = {1}", j, n[j]);
+            }
+            Console.ReadKey();
+
+        }
+    }
+}
